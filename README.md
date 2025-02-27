@@ -11,9 +11,3 @@ A Streamlit-based tool to calculate and visualize the Minimal Detectable Effect 
 - **Customizable Titles**: Optionally provide a custom main title and subtitle for the generated plot.
 
 ---
-
-## Installation
-
-1. **Clone this repository**:
-   ```bash
-   git clone https://github.com/yourusername/mde-day-planner.git
